@@ -1,5 +1,5 @@
 <?php
-$msg = 'Victor was here';
+$msg = 'Barbara was here';
 ?>
 <html>
 <head>
@@ -7,7 +7,7 @@ $msg = 'Victor was here';
 </head>
 <body>
 <p>The train goes forward unstoppable</p>
-<p><?php echo $msg; ?>
+<p><?php echo $msg; ?></p>
 <p>But finally brakes and stop</p>
 <body>
 </html>
