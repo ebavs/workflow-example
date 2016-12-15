@@ -7,8 +7,7 @@ $msg = 'Victor stops train';
 </head>
 <body>
 <p>The train goes forward unstoppable</p>
-<p><?php echo $msg; ?></p>
 <p>But finally brakes and stop</p>
-<pre>The big train</pre>
+<pre>The Train start again</p>
 <body>
 </html>
